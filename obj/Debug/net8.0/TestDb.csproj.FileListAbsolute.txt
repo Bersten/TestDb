@@ -166,3 +166,4 @@ C:\Users\Administrateur\Documents\TestDb\obj\Debug\net8.0\refint\TestDb.dll
 C:\Users\Administrateur\Documents\TestDb\obj\Debug\net8.0\TestDb.pdb
 C:\Users\Administrateur\Documents\TestDb\obj\Debug\net8.0\TestDb.genruntimeconfig.cache
 C:\Users\Administrateur\Documents\TestDb\obj\Debug\net8.0\ref\TestDb.dll
+C:\Users\Administrateur\Documents\TestDb\obj\Debug\net8.0\TestDb.sourcelink.json
