@@ -12,5 +12,6 @@ namespace Data
 
         // Déclaration des DbSet
         public DbSet<Product> Products { get; set; }
+        public DbSet<Book> Books { get; set; }
     }
 }
